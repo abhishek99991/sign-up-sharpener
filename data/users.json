@@ -1,0 +1,14 @@
+[
+  {
+    "id": "generated-user-id",
+    "name": "Abhishek",
+    "email": "abhishek@example.com",
+    "passwordHash": "salt:hashed-password"
+  },
+  {
+    "id": "d84cc950-f5fc-4ee1-85c4-01cb6fb279a9",
+    "name": "ABHISHEK Sharma",
+    "email": "abhishek999109@gmail.com",
+    "passwordHash": "1a9939dbfb7788959353c46897c01a63:c7519cabe4c3f5cd4242a57f16f57e60ed053299fbf010a58de9a0d450051c7f940b071482ff055436f619a2c469ba0fae8e921076616f20546cf8719e4b0de1"
+  }
+]
